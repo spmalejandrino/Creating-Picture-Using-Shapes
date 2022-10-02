@@ -1,11 +1,4 @@
-/**
- * The Artist class allows the user to build simple scenes that are 
- * made up of circles, squares, triangles and labels. The scenes are
- * drawn on a canvas that is 300 units high by 300 units wide.
- * 
- * @author Carl Singer 
- * @version August 2005
- */ 
+
 public class Artist
 {
     private Circle circle;
