@@ -1,15 +1,5 @@
 import java.awt.*;
 
-/**
- * A triangle that can be manipulated and that draws itself on a canvas.
- * 
- * @author  Michael Kolling & David J. Barnes (modified by: C. Singer)
- * @version 1.0  (15 July 2000)
- * 
- * Revised by Computer Science Department
- * @version January 2008
- */
-
 public class Triangle
 {
     private int height;
