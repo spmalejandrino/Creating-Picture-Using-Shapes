@@ -1,16 +1,6 @@
 import java.awt.*;
 import java.awt.geom.*;
 
-/**
- * A circle that can be manipulated and that draws itself on a canvas.
- * 
- * @author  Michael Kolling and David J. Barnes (modified by: C. Singer)
- * @version 1.0  (15 July 2000)
- * 
- * Revised by Computer Science Department
- * @version January 2008
- */
-
 public class Circle
 {
     private int diameter;
