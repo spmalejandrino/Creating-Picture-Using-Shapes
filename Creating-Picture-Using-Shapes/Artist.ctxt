@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Artist
+comment0.text=\r\n\ The\ Artist\ class\ allows\ the\ user\ to\ build\ simple\ scenes\ that\ are\ \r\n\ made\ up\ of\ circles,\ squares,\ triangles\ and\ labels.\ The\ scenes\ are\r\n\ drawn\ on\ a\ canvas\ that\ is\ 300\ units\ high\ by\ 300\ units\ wide.\r\n\ \r\n\ @author\ Carl\ Singer\ \r\n\ @version\ August\ 2005\r\n
+comment1.params=
+comment1.target=Artist()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Artist.\r\n
+comment2.params=
+comment2.target=void\ myScence()
+comment3.params=
+comment3.target=void\ scene1()
+comment3.text=\r\n\ Render\ a\ scene\ with\ circle,\ triangle\ and\ square\ having\ default\ object\ settings\ \r\n
+comment4.params=
+comment4.target=void\ scene2()
+comment4.text=\r\n\ Render\ a\ scene\ with\ circle,\ triangle\ and\ square\ having\ changed\ colors,\ sizes\ and\ positions\ \r\n
+comment5.params=
+comment5.target=void\ scene3()
+comment5.text=\r\n\ Render\ a\ scene\ with\ current\ circle,\ triangle\ and\ square\ \r\n
+numComments=6
