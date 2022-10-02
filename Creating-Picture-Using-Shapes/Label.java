@@ -1,10 +1,4 @@
 
-/**
- * A class to handle the graphing of text
- * 
- * @author Carl Singer revised by Computer Science Department
- * @version January 2008
- */
 public class Label
 {
     private String label;
