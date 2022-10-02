@@ -1,15 +1,5 @@
 import java.awt.*;
 
-/**
- * A square that can be manipulated and that draws itself on a canvas.
- * 
- * @author  Michael Kolling and David J. Barnes
- * @version 1.0  (15 July 2000)
- * 
- * Revised by Computer Science Department
- * @version January 2008
- */
-
 public class Square
 {
     private int size;
